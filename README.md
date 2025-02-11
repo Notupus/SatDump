@@ -1,4 +1,4 @@
-# SatDump
+# SatDump Libre?sdr
 
 <img src='/icon.png' width='500px' />
 
